@@ -20,10 +20,10 @@ Kurtz (who is not to be admired for much else), a good writer has
 something to say and says it. More specifically, good writing
 
 -   [reveals the author's clear sense of audience and
-    purpose](audiencepurpose.md);
--   [is well organized](organization.md);
--   [is lucid, simple, and direct](luciditysimplicity.md);
+    purpose](audiencepurpose.html);
+-   [is well organized](organization.html);
+-   [is lucid, simple, and direct](luciditysimplicity.html);
 -   [exhibits care and imagination in the arrangement of words,
-    sentences, and ideas](careimagination.md);
--   [follows appropriate conventions](conventions.md).
+    sentences, and ideas](careimagination.html);
+-   [follows appropriate conventions](conventions.html).
 
