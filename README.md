@@ -13,7 +13,7 @@ preferences - cultural, historical, and personal. In addition, judgments
 about academic writing inevitably reflect differences between
 disciplines. Even in a genre as narrow as the college essay, there is
 simply no single answer to the question, [What is good
-writing?](whatisgood.md) *The Guide* attempts to establish
+writing?](whatisgood.html) *The Guide* attempts to establish
 common ground for faculty and students at Geneseo, but it also
 represents individual and disciplinary diversity through its faculty and
 department style sheets. 
